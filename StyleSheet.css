@@ -1,0 +1,55 @@
+﻿body {    width: 1024px;
+    height: 221px;
+}
+.footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    color: #CCCCCC;
+}
+.menu {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #FFFFFF;
+}
+.title1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    color: #CCCCCC;
+    font-weight: bolder;
+}
+.content {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    font-size: large;
+}
+.content1 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: large;
+    color: #C0C0C0;
+    width: 1024px;
+}
+.productname {
+    font-family: "Adobe Gothic Std B";
+    font-size: x-large;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+.productprice {
+    font-family: "Eras Demi ITC";
+    font-size: large;
+    font-weight: lighter;
+    color: #FFFFCC;
+}
+.login_register {
+    font-family: "Miriam Fixed";
+    color: #FF0000;
+    font-size: medium;
+    font-weight: bolder;
+}
